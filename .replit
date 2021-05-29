@@ -1,0 +1,4 @@
+language = "nodejs"
+nuxt = "yarn add nuxt"
+build = "yarn build"
+run = "yarn dev"
